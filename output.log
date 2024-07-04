@@ -1,0 +1,47 @@
+                 Device | INFO     | Opening user mode device driver
+2024-07-04 20:21:23.393 | INFO     | SiliconDriver   - Detected 1 PCI device : {0}
+                  Metal | WARNING  | NUMA node -1 for device 0 does not exist on host.
+                  Metal | INFO     | Initializing device 0. Program cache is NOT enabled
+                  Metal | INFO     | AI CLK for device 0 is:   1000 MHz
+                  Metal | INFO     | DPRINT enabled on device 0, worker core (x=0,y=0) (physical (x=1,y=1)).
+                  Metal | INFO     | DPRINT Server attached device 0
+                  Metal | INFO     | Closing device 0
+0: 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+1: BAD TILE POINTER count=0
+2: BAD TILE POINTER count=0
+3: BAD TILE POINTER count=0
+4: BAD TILE POINTER count=0
+5: BAD TILE POINTER count=0
+6: BAD TILE POINTER count=0
+7: BAD TILE POINTER count=0
+8: BAD TILE POINTER count=0
+9: BAD TILE POINTER count=0
+10: BAD TILE POINTER count=0
+11: BAD TILE POINTER count=0
+12: BAD TILE POINTER count=0
+13: BAD TILE POINTER count=0
+14: BAD TILE POINTER count=0
+15: BAD TILE POINTER count=0
+16: BAD TILE POINTER count=0
+17: BAD TILE POINTER count=0
+18: BAD TILE POINTER count=0
+19: BAD TILE POINTER count=0
+20: BAD TILE POINTER count=0
+21: BAD TILE POINTER count=0
+22: BAD TILE POINTER count=0
+23: BAD TILE POINTER count=0
+24: BAD TILE POINTER count=0
+25: BAD TILE POINTER count=0
+26: BAD TILE POINTER count=0
+27: BAD TILE POINTER count=0
+28: BAD TILE POINTER count=0
+29: BAD TILE POINTER count=0
+30: BAD TILE POINTER count=0
+31: BAD TILE POINTER count=0
+                  Metal | INFO     | DPRINT Server dettached device 0
+                  Metal | INFO     | Disabling and clearing program cache on device 0
+                 Device | INFO     | Closing user mode device drivers
